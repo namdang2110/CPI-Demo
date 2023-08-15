@@ -1,0 +1,16 @@
+A-anim.png
+size:730,512
+filter:Linear,Linear
+pma:true
+A
+bounds:2,2,508,587
+rotate:90
+eye_L
+bounds:591,34,156,127
+rotate:90
+eye_R
+bounds:591,192,159,126
+rotate:90
+mouth
+bounds:591,353,157,137
+rotate:90

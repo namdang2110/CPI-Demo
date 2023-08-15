@@ -1,0 +1,16 @@
+planet-anim.png
+size:968,1026
+filter:Linear,Linear
+pma:true
+circle
+bounds:2,730,964,294
+circle_2
+bounds:2,2,726,149
+rotate:90
+hand_L
+bounds:835,394,120,164
+hand_R
+bounds:835,560,168,127
+rotate:90
+planet
+bounds:153,47,680,681

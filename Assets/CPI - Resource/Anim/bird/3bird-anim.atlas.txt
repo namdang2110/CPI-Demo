@@ -1,0 +1,31 @@
+3bird-anim.png
+size:1373,450
+filter:Linear,Linear
+pma:true
+Layer 2 copy
+bounds:1039,2,235,209
+rotate:90
+Layer 2
+bounds:1039,2,235,209
+rotate:90
+Layer 2 copy 2
+bounds:1106,239,235,209
+Layer 3 copy 2
+bounds:1250,99,138,121
+rotate:90
+Layer 3
+bounds:1250,99,138,121
+rotate:90
+Layer 3 copy
+bounds:1250,99,138,121
+rotate:90
+branch
+bounds:332,298,772,150
+parrot_1
+bounds:2,45,328,403
+parrot_2
+bounds:685,10,286,352
+rotate:90
+parrot_3
+bounds:332,8,288,351
+rotate:90

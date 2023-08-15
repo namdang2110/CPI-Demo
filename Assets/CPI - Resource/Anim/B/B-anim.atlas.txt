@@ -1,0 +1,14 @@
+B-anim.png
+size:802,411
+filter:Linear,Linear
+pma:true
+B
+bounds:2,2,407,589
+rotate:90
+eye_L
+bounds:593,257,148,152
+eye_R
+bounds:653,100,147,155
+mouth
+bounds:593,45,210,58
+rotate:90

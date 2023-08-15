@@ -1,0 +1,15 @@
+Head_Huggy.png
+size:984,466
+filter:Linear,Linear
+pma:true
+huggy_2_face_shadow
+bounds:2,2,627,462
+huggy_2_left_eye
+bounds:896,365,86,99
+huggy_2_mouth
+bounds:631,34,315,129
+huggy_2_ribbon_1
+bounds:631,165,299,263
+rotate:90
+huggy_2_right_eye
+bounds:896,264,86,99

@@ -1,0 +1,26 @@
+Lighthouse-anim.png
+size:1943,445
+filter:Linear,Linear
+pma:true
+2light
+bounds:2,46,397,693
+rotate:90
+Lighthouse
+bounds:697,139,304,775
+rotate:90
+house
+bounds:1474,5,438,324
+rotate:90
+light copy
+bounds:1800,38,405,141
+rotate:90
+light copy 2
+bounds:697,2,302,135
+smoke_1
+bounds:1147,27,110,104
+rotate:90
+smoke_2
+bounds:1001,2,144,135
+smoke_3
+bounds:1253,67,70,67
+rotate:90

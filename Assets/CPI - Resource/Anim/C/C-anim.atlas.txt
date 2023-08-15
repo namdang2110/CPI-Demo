@@ -1,0 +1,14 @@
+C-anim.png
+size:764,583
+filter:Linear,Linear
+pma:true
+C
+bounds:2,2,628,579
+eye_L
+bounds:632,48,103,118
+eye_R
+bounds:632,374,207,130
+rotate:90
+mouth
+bounds:632,168,204,89
+rotate:90

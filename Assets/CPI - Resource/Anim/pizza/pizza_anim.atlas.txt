@@ -1,0 +1,6 @@
+pizza_anim.png
+size:705,592
+filter:Linear,Linear
+pma:true
+pizza_anim
+bounds:2,2,701,588

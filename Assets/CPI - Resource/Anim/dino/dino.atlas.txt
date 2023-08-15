@@ -1,0 +1,8 @@
+dino.png
+size:795,943
+filter:Linear,Linear
+pma:true
+body
+bounds:2,2,791,355
+head
+bounds:2,359,647,582
